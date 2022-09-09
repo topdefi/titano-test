@@ -2012,6 +2012,7 @@
                         I = y.preCountdownText;
                     return (0, r.jsx)(k, {
                         children: (0, r.jsxs)(In, {
+                            style: { textAlign: "center", alignItems: "center", justifyContent: "center" },
                             children: [
                                 (0, r.jsxs)(Sn, {
                                     children: [
