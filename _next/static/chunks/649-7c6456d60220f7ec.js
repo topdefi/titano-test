@@ -14,7 +14,7 @@
                     return (0, e.jsxs)("image", {
                         width: "50",
                         height: "50",
-                        href: "https://truemoney.finance/logo.svg"
+                        src: "https://truemoney.finance/logo.svg"
                     });
                 };
             function c(n, t) {
